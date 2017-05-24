@@ -49,6 +49,9 @@ Name | Repository
 [robospice](https://github.com/stephanenicolas/robospice) | https://github.com/stephanenicolas/robospice
 [NetworkEvents](https://github.com/pwittchen/NetworkEvents) | https://github.com/pwittchen/NetworkEvents
 [Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) | https://github.com/amitshekhariitbhu/Fast-Android-Networking
+[node-android](https://github.com/InstantWebP2P/node-android) |
+[RESTMock](https://github.com/andrzejchm/RESTMock) |
+[Packetzoom](https://packetzoom.com/blog/introducing-http-optimizer-and-analytics-service.html) |
 
 ## Image Loader
 Name | Repository
@@ -67,6 +70,7 @@ Name | Repository
 Name | Repository
 --- | ---
 [AndroidAnnotations](http://androidannotations.org/) | https://github.com/excilys/androidannotations
+[Dagger 2](https://github.com/google/dagger) | https://github.com/google/dagger
 [Butter Knife](http://jakewharton.github.io/butterknife/) | https://github.com/JakeWharton/butterknife
 [Dagger(Square)](http://square.github.io/dagger/) | https://github.com/square/dagger
 [Dagger(Google)](https://github.com/google/dagger) | https://github.com/google/dagger
@@ -79,6 +83,7 @@ Name | Repository
 [Gson](https://code.google.com/p/google-gson/) | http://google-gson.googlecode.com/svn/trunk/
 [ig-json-parser](https://github.com/Instagram/ig-json-parser) | https://github.com/Instagram/ig-json-parser
 [Jackson](http://jackson.codehaus.org/) | https://github.com/FasterXML/jackson
+[moshi](https://github.com/square/moshi) | https://github.com/square/moshi
 
 ## O/R Mapping 
 Name | Repository
@@ -100,6 +105,7 @@ Name | Repository
 [RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase) | A wrapper to replicate android's SQLiteDatabase with restoring capability.
 [sqlbrite](https://github.com/square/sqlbrite) | A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.
 [realm-java](https://github.com/realm/realm-java) | Realm is a mobile database: a replacement for SQLite & ORMs
+[android-realm-asset-helper](https://github.com/eggheadgames/android-realm-asset-helper) | 
 [LitePal](https://github.com/LitePalFramework/LitePal) | An Android library that allows developers to use SQLite database extremely easy.
 [DBExecutor](https://github.com/LuckyJayce/DBExecutor) | 
 [Android-AnnotatedSQL](https://github.com/hamsterksu/Android-AnnotatedSQL) | Android library for auto generating SQL schema and Content provider
@@ -133,6 +139,7 @@ Name | Repository
 [EventBus](https://github.com/greenrobot/EventBus) | https://github.com/greenrobot/EventBus
 [Otto](http://square.github.io/otto/) | https://github.com/square/otto
 [MBassador](https://github.com/bennidi/mbassador) | https://github.com/bennidi/mbassador
+[drekkar](https://github.com/coshx/drekkar) | https://github.com/coshx/drekkar
 
 ## Logger
 Name | Repository
@@ -142,6 +149,9 @@ Name | Repository
 [LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) | https://github.com/ihsanbal/LoggingInterceptor
 [LogcatTextView](https://github.com/munix/LogcatTextView) | https://github.com/munix/LogcatTextView
 [CodeView](https://github.com/tiagohm/CodeView) | https://github.com/tiagohm/CodeView
+[logger](https://github.com/orhanobut/logger) | https://github.com/orhanobut/logger
+[EzyLogger](https://github.com/afiqiqmal/EzyLogger) |
+[Lynx](https://github.com/pedrovgs/Lynx) |
 
 ## Background Processing
 Name | Repository
@@ -204,6 +214,7 @@ Name | Repository
 Name | Repository
 --- | ---
 [PdfMyXml](https://github.com/HendrixString/Android-PdfMyXml) | https://github.com/HendrixString/Android-PdfMyXml
+[MediaRecorderDialog](https://github.com/alhazmy13/MediaRecorderDialog) | 
 
 ## Maps
 Name | Repository
@@ -215,6 +226,14 @@ Name | Repository
 Name | Repository
 --- | ---
 [Joda Time Android](https://github.com/dlew/joda-time-android) | https://github.com/dlew/joda-time-android
+[ThreeTenABP](https://github.com/JakeWharton/ThreeTenABP) |
+[truetime-android](https://github.com/instacart/truetime-android) |
+
+## Notifications
+Name | Repository
+--- | ---
+[android-remote-notifications](https://github.com/kaiwinter/android-remote-notifications) | 
+[AndroidHeartBeatFixer](https://github.com/joaopedronardari/AndroidHeartBeatFixer) |
 
 ## Applink 
 Name | Repository
@@ -225,6 +244,7 @@ Name | Repository
 Name | Repository
 --- | ---
 [Secure Preference Manager](http://prashantsolanki3.github.io/Secure-Pref-Manager/) | http://prashantsolanki3.github.io/Secure-Pref-Manager/
+[Secure-Pref-Manager](https://github.com/prashantsolanki3/Secure-Pref-Manager) | https://github.com/prashantsolanki3/Secure-Pref-Manager
 
 ## Hotfix
 Name | Repository
@@ -236,6 +256,7 @@ Name | Repository
 [HotFix](https://github.com/dodola/HotFix) | 
 [Nuwa](https://github.com/jasonross/Nuwa) | Nuwa, pure java implementation, can hotfix your android application.
 [dexposed](https://github.com/alibaba/dexposed) | dexposed enable 'god' mode for single android application.
+[Fit](https://github.com/KeithYokoma/Fit) | 
 
 ## Other
 Name | Repository
@@ -379,6 +400,8 @@ Name | Repository
 [jcodec](https://github.com/jcodec/jcodec) |
 [ipcam-view](https://github.com/niqdev/ipcam-view) |
 [AndroidAudioConverter](https://github.com/adrielcafe/AndroidAudioConverter) |
+[AudioPlayerView](https://github.com/HugoMatilla/AudioPlayerView) |
+[UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) |
 []() |
 
 ## Embedded
@@ -434,7 +457,7 @@ Name | Repository
 [Ok2Curl](https://github.com/mrmike/Ok2Curl) |
 [thrifty](https://github.com/microsoft/thrifty) |
 [KotlinPreferences](https://github.com/MarcinMoskala/KotlinPreferences) |
-[]() |
+[ConcealSharedPreference-Android](https://github.com/afiqiqmal/ConcealSharedPreference-Android) |
 
 ## SDK
 Name | Repository
@@ -452,7 +475,8 @@ Name | Repository
 [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) |
 [Twitter-Helper](https://github.com/krazykira/Twitter-Helper) |
 [liquid-sdk-android](https://github.com/lqd-io/liquid-sdk-android) |
-[cloudrail-si-android-sdk/](https://github.com/CloudRail/cloudrail-si-android-sdk/) |
+[cloudrail](https://cloudrail.com) |
+[cloudrail-si-android-sdk](https://github.com/CloudRail/cloudrail-si-android-sdk/) |
 [qiscus-sdk-android](https://github.com/qiscus/qiscus-sdk-android) |
 []() |
 
@@ -469,6 +493,15 @@ Name | Repository
 [android-junit-report](https://github.com/jsankey/android-junit-report) |
 [powermock](https://github.com/powermock/powermock) |
 [green-coffee](https://github.com/mauriciotogneri/green-coffee) |
+[robolectric](http://robolectric.org/) |
+
+## Tracking
+Name | Repository
+--- | ---
+[MobileAppTracking](https://www.tune.com/) |
+[Mixpanel](https://mixpanel.com/) |
+[Countly](https://count.ly) |
+[CleverTap](https://clevertap.com) |
 
 ## Debug
 Name | Repository
@@ -479,7 +512,7 @@ Name | Repository
 [debug-bottle](https://github.com/kiruto/debug-bottle) |
 [ViewInspector](https://github.com/xfumihiro/ViewInspector) |
 [scalpel](https://github.com/JakeWharton/scalpel) |
-[]() |
+[stetho](https://github.com/facebook/stetho) |
 
 ## App / Demo
 Name | Repository
@@ -523,6 +556,18 @@ Name | Repository
 Name | Repository
 --- | ---
 [PermissionHelper](https://github.com/k0shk0sh/PermissionHelper) |
+[Gota](https://github.com/alhazmy13/Gota) |
+
+## Crash Monitoring
+Name | Repository
+--- | ---
+[Fabric Crashlytics](https://get.fabric.io/)  |
+[HockeyApp](https://www.hockeyapp.net/) | 
+[Splunk MINT](https://mint.splunk.com/) | 
+[Bugsnag](https://www.bugsnag.com/) |
+[Catcho](https://github.com/alhazmy13/Catcho) | 
+[Apteligent](https://www.apteligent.com/) |
+[BugfenderSDK](https://github.com/bugfender/BugfenderSDK-android-sample) | https://github.com/bugfender/BugfenderSDK-android-sample
 
 ## Android Wear
 Name | Repository
@@ -573,6 +618,12 @@ Name | Repository
 [android-weak-handler](https://github.com/badoo/android-weak-handler) |
 [hawk](https://github.com/orhanobut/hawk) |
 [FingerprintAuthHelper](https://github.com/pro100svitlo/FingerprintAuthHelper) |
+[bytebuddy](http://bytebuddy.net) |
+[Androl4b](https://github.com/sh4hin/Androl4b) |
+[SmartGattLib](https://github.com/movisens/SmartGattLib) |
+[tape](https://github.com/square/tape) |
+[sl4a](https://github.com/damonkohler/sl4a) |
+[transai](https://github.com/Jintin/transai) |
 
 ## Books
 Name | Repository
