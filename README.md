@@ -52,6 +52,7 @@ Name | Repository
 [node-android](https://github.com/InstantWebP2P/node-android) |
 [RESTMock](https://github.com/andrzejchm/RESTMock) |
 [Packetzoom](https://packetzoom.com/blog/introducing-http-optimizer-and-analytics-service.html) |
+[chuck](https://github.com/jgilfelt/chuck) |
 
 ## Image Loader
 Name | Repository
@@ -89,6 +90,7 @@ Name | Repository
 Name | Repository
 --- | ---
 [ActiveAndroid](http://www.activeandroid.com/) | https://github.com/pardom/ActiveAndroid
+[storio](https://github.com/pushtorefresh/storio) | https://github.com/pushtorefresh/storio
 [Cupboard for Android](https://bitbucket.org/littlerobots/cupboard) | https://bitbucket.org/littlerobots/cupboard
 [DBFlow](https://github.com/Raizlabs/DBFlow) | https://github.com/Raizlabs/DBFlow
 [RushOrm](http://www.rushorm.com/) | https://github.com/Stuart-campbell/RushOrm
@@ -152,6 +154,8 @@ Name | Repository
 [logger](https://github.com/orhanobut/logger) | https://github.com/orhanobut/logger
 [EzyLogger](https://github.com/afiqiqmal/EzyLogger) |
 [Lynx](https://github.com/pedrovgs/Lynx) |
+[ShoutOut](https://github.com/nisrulz/ShoutOut) |
+[pidcat](https://github.com/JakeWharton/pidcat) |
 
 ## Background Processing
 Name | Repository
@@ -159,6 +163,7 @@ Name | Repository
 [Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) | https://github.com/yigit/android-priority-jobqueue
 [Tape](http://square.github.io/tape/) | https://github.com/square/tape
 [Zorn](https://github.com/HendrixString/Android-Zorn) | https://github.com/HendrixString/Android-Zorn
+[android-job](https://github.com/evernote/android-job) | https://github.com/evernote/android-job
 
 ## Fonts
 Name | Repository
@@ -178,11 +183,13 @@ Name | Repository
 [Akatsuki](https://github.com/tom91136/Akatsuki) | https://github.com/tom91136/Akatsuki
 [Icepick](https://github.com/frankiesardo/icepick) | https://github.com/frankiesardo/icepick
 [Parceler](https://github.com/johncarl81/parceler) | https://github.com/johncarl81/parceler
+[icicle](https://github.com/segunfamisa/icicle) | https://github.com/segunfamisa/icicle
 
 ## Social Networks
 Name | Repository
 --- | ---
 [ASNE](https://github.com/gorbin/ASNE) | https://github.com/gorbin/ASNE
+[SocialLoginManager](https://github.com/jaychang0917/SocialLoginManager) |
 
 ## WebRTC
 Name | Repository
@@ -194,6 +201,7 @@ Name | Repository
 --- | ---
 [GPUImage for Android](https://github.com/CyberAgent/android-gpuimage) | https://github.com/CyberAgent/android-gpuimage
 [Compressor](https://github.com/zetbaitsu/Compressor) | Compressor is a lightweight and powerful android image compression library, also support RxJava
+[Tiny](https://github.com/Sunzxyong/Tiny) |
 
 ## Camera
 Name | Repository
@@ -355,6 +363,7 @@ Name | Repository
 [android-validation-komensky](https://github.com/inmite/android-validation-komensky) |
 [AwesomeValidation](https://github.com/thyrlian/AwesomeValidation) |
 [NextInputs](https://github.com/yoojia/NextInputs) |
+[android-complexify](https://github.com/infinum/android-complexify) |
 
 ## Gesture
 Name | Repository
@@ -478,7 +487,10 @@ Name | Repository
 [cloudrail](https://cloudrail.com) |
 [cloudrail-si-android-sdk](https://github.com/CloudRail/cloudrail-si-android-sdk/) |
 [qiscus-sdk-android](https://github.com/qiscus/qiscus-sdk-android) |
-[]() |
+[ChatKit](https://github.com/stfalcon-studio/ChatKit) |
+[thumbor](https://github.com/thumbor/thumbor) |
+[ParseAlternativesServices](https://github.com/minhhuy150894/ParseAlternativesServices) |
+[deepstream.io](https://github.com/deepstreamIO/deepstream.io) |
 
 ## Test
 Name | Repository
@@ -513,6 +525,9 @@ Name | Repository
 [ViewInspector](https://github.com/xfumihiro/ViewInspector) |
 [scalpel](https://github.com/JakeWharton/scalpel) |
 [stetho](https://github.com/facebook/stetho) |
+[BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) |
+[debugkit](https://github.com/hulab/debugkit) |
+[AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder) |
 
 ## App / Demo
 Name | Repository
@@ -537,7 +552,42 @@ Name | Repository
 [seadroid](https://github.com/haiwen/seadroid) |
 [Opengur](https://github.com/Kennyc1012/Opengur) |
 [FolioReader-Android](https://github.com/FolioReader/FolioReader-Android) |
-[]() |
+[AndroidTV-workshop](https://github.com/odigeoteam/AndroidTV-workshop) |
+[android-oss](https://github.com/kickstarter/android-oss) |
+[MusicDNA](https://github.com/harjot-oberai/MusicDNA) |
+[Just-Another-Android-App](https://github.com/athkalia/Just-Another-Android-App) |
+[open-event-android](https://github.com/fossasia/open-event-android) |
+[PocketHub](https://github.com/pockethub/PocketHub) |
+[ribot-app-android](https://github.com/ribot/ribot-app-android) |
+[Telegram](https://github.com/DrKLO/Telegram) |
+[iosched](https://github.com/google/iosched) |
+[android-mvp-architecture](https://github.com/MindorksOpenSource/android-mvp-architecture) |
+[GivesMeHopeAndroidClient](https://github.com/jparkie/GivesMeHopeAndroidClient) |
+[EffectiveAndroidUI](https://github.com/pedrovgs/EffectiveAndroidUI) |
+[philm](https://github.com/chrisbanes/philm) |
+[archi](https://github.com/ivacf/archi) |
+[LeafPic](https://github.com/HoraApps/LeafPic) |
+[plaid](https://github.com/nickbutcher/plaid) |
+[CoCoin](https://github.com/Nightonke/CoCoin) |
+[SimplifyReader](https://github.com/chentao0707/SimplifyReader) |
+[open-source-android-apps](https://github.com/pcqpcq/open-source-android-apps) |
+[InstaMaterial](https://github.com/frogermcs/InstaMaterial) |
+[kickmaterial](https://github.com/byoutline/kickmaterial) |
+[android-boilerplate](https://github.com/ribot/android-boilerplate) |
+[NotifyUtil](https://github.com/wenmingvs/NotifyUtil) |
+[ColorfulNews](https://github.com/kaku2015/ColorfulNews) |
+[SmarterStreaming](https://github.com/daniulive/SmarterStreaming) |
+[UI-Motion](https://github.com/andremion/UI-Motion) |
+[wire-android](https://github.com/wireapp/wire-android) |
+[Popular-Movies-App](https://github.com/maksim-m/Popular-Movies-App) |
+[e-contact-android](https://github.com/Yalantis/e-contact-android) |
+[RxJava-Android-Samples](https://github.com/kaushikgopal/RxJava-Android-Samples) |
+[android-architecture](https://github.com/googlesamples/android-architecture) |
+[RxJava2-Android-Samples](https://github.com/amitshekhariitbhu/RxJava2-Android-Samples) |
+[FlatBuffer](https://github.com/amitshekhariitbhu/FlatBuffer) |
+[Mysplash](https://github.com/WangDaYeeeeee/Mysplash) |
+[FastAccess](https://github.com/k0shk0sh/FastAccess) |
+[JieCaoVideoPlayer](https://github.com/lipangit/JieCaoVideoPlayer) |
 
 ## Security
 Name | Repository
@@ -550,7 +600,9 @@ Name | Repository
 --- | ---
 [Android-Skin-Loader](https://github.com/fengjundev/Android-Skin-Loader) |
 [AndroidChangeSkin](https://github.com/hongyangAndroid/AndroidChangeSkin) |
-[]() |
+[Colorful](https://github.com/garretyoder/Colorful) |
+[aesthetic](https://github.com/afollestad/aesthetic) |
+[MagicaSakura](https://github.com/Bilibili/MagicaSakura) |
 
 ## Permission
 Name | Repository
@@ -590,6 +642,16 @@ Name | Repository
 [dexterity](https://github.com/rchiossi/dexterity) |
 []() |
 
+## Rx
+Name | Repository
+--- | ---
+[RxJava2Interop](https://github.com/akarnokd/RxJava2Interop) |
+[RxFile](https://github.com/pavlospt/RxFile) |
+[RxDownload](https://github.com/ssseasonnn/RxDownload) |
+[RxAndroidBle](https://github.com/Polidea/RxAndroidBle) |
+[Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) |
+[rx-preferences](https://github.com/f2prateek/rx-preferences) |
+
 ## Other 
 Name | Repository
 --- | ---
@@ -624,6 +686,12 @@ Name | Repository
 [tape](https://github.com/square/tape) |
 [sl4a](https://github.com/damonkohler/sl4a) |
 [transai](https://github.com/Jintin/transai) |
+[magellan](https://github.com/wealthfront/magellan) |
+[condom](https://github.com/oasisfeng/condom) |
+[DroidPlugin](https://github.com/DroidPluginTeam/DroidPlugin) |
+[screenshott](https://github.com/nisrulz/screenshott) |
+[packagehunter](https://github.com/nisrulz/packagehunter) |
+[zentone](https://github.com/nisrulz/zentone) |
 
 ## Books
 Name | Repository
