@@ -1,36 +1,37 @@
-List of Android Libraries
+List of Android Libraries [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/thanhtoan1196/awesome-android)
 ======================
+A curated list of awesome Android libraries. Feel free to contrubute.
 
-This is an alphabetical list of libraries for Android development, the majority being actively maintained.
+## Other Awesome List
+- [awesome-android](https://github.com/thanhtoan1196/awesome-android)
+- [awesome-android-ui](https://github.com/thanhtoan1196/awesome-android-ui)
 
-**UI/UX Library is [here](https://github.com/wasabeef/awesome-android-ui).**
-
-### Index
-* [Networking](#networking)
-* [Image Loader](#image-loader)
-* [Drawable](#drawable)
-* [Dependency Injections](#dependency-injections)
-* [JSON](#json)
-* [O/R Mapping](#or-mapping)
-* [NoSQL](#nosql)
-* [Pub/Sub](#pubsub)
-* [Logger](#logger)
-* [Background Processing](#background-processing)
-* [Fonts](#fonts)
-* [Video](#video)
-* [Parcelables](#parcelables)
-* [Functional Programming](#functional-programming)
-  * [Adding Java-8 Functional Programming Features](#adding-java-8-functional-programming-features)
-  * [Functional Reactive Programming](#functional-reactive-programming)
-* [Social Networks](#social-networks)
-* [WebRTC](#webrtc)
-* [Image Processing](#image-processing)
-* [Camera](#camera)
-* [Security](#security)
-* [Media](#media)
-* [Showcases](#showcases)
-* [Maps](#maps)
-* [Other](#other)
+## Index
+- [Networking](#networking)
+- [Image Loader](#image-loader)
+- [Drawable](#drawable)
+- [Dependency Injections](#dependency-injections)
+- [JSON](#json)
+- [O/R Mapping](#or-mapping)
+- [NoSQL](#nosql)
+- [Pub/Sub](#pubsub)
+- [Logger](#logger)
+- [Background Processing](#background-processing)
+- [Fonts](#fonts)
+- [Video](#video)
+- [Parcelables](#parcelables)
+- [Functional Programming](#functional-programming)
+  - [Adding Java-8 Functional Programming Features](#adding-java-8-functional-programming-features)
+  - [Functional Reactive Programming](#functional-reactive-programming)
+- [Social Networks](#social-networks)
+- [WebRTC](#webrtc)
+- [Image Processing](#image-processing)
+- [Camera](#camera)
+- [Security](#security)
+- [Media](#media)
+- [Showcases](#showcases)
+- [Maps](#maps)
+- [Other](#other)
 
 ## Networking
 Name | Repository
@@ -184,6 +185,7 @@ Name | Repository
 [Icepick](https://github.com/frankiesardo/icepick) | https://github.com/frankiesardo/icepick
 [Parceler](https://github.com/johncarl81/parceler) | https://github.com/johncarl81/parceler
 [icicle](https://github.com/segunfamisa/icicle) | https://github.com/segunfamisa/icicle
+[ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) | https://github.com/MarcinMoskala/ActivityStarter
 
 ## Social Networks
 Name | Repository
@@ -528,6 +530,7 @@ Name | Repository
 [BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) |
 [debugkit](https://github.com/hulab/debugkit) |
 [AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder) |
+[Takt](https://github.com/wasabeef/Takt) | ![](https://github.com/wasabeef/Takt/raw/master/art/takt.gif)
 
 ## App / Demo
 Name | Repository
@@ -692,6 +695,7 @@ Name | Repository
 [screenshott](https://github.com/nisrulz/screenshott) |
 [packagehunter](https://github.com/nisrulz/packagehunter) |
 [zentone](https://github.com/nisrulz/zentone) |
+[ActivityRouter](https://github.com/mzule/ActivityRouter) | <img src="https://raw.githubusercontent.com/mzule/ActivityRouter/master/gif/router.gif" width="250" height="490">
 
 ## Books
 Name | Repository
@@ -700,4 +704,24 @@ Name | Repository
 [android](http://guides.codepath.com/android) |
 [android_guides](https://github.com/codepath/android_guides) |
 [from-java-to-kotlin](https://fabiomsr.github.io/from-java-to-kotlin/) |
-[]() |
+
+## About Me
+- Github:  https://github.com/thanhtoan1196
+- Facebook: https://www.facebook.com/thanhtoan1196       
+- Email: thanhtoan1196@gmail.com
+
+## License
+
+    Copyright 2017 Tran Van Thanh Toan
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
