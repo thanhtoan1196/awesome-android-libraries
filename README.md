@@ -34,7 +34,7 @@ A curated list of awesome Android libraries. Feel free to contrubute.
 - [Other](#other)
 
 ## Networking
-Name | Repository
+Name | Description
 --- | ---
 [Android Asynchronous Http Client](http://loopj.com/android-async-http) | https://github.com/loopj/android-async-http
 [Async Http Client](https://github.com/AsyncHttpClient/async-http-client) | https://github.com/AsyncHttpClient/async-http-client
@@ -54,6 +54,7 @@ Name | Repository
 [RESTMock](https://github.com/andrzejchm/RESTMock) |
 [Packetzoom](https://packetzoom.com/blog/introducing-http-optimizer-and-analytics-service.html) |
 [chuck](https://github.com/jgilfelt/chuck) |
+[autobahn-java](https://github.com/crossbario/autobahn-java) |
 
 ## Image Loader
 Name | Repository
@@ -78,6 +79,8 @@ Name | Repository
 [Dagger(Google)](https://github.com/google/dagger) | https://github.com/google/dagger
 [RoboGuice](https://github.com/roboguice/roboguice) | https://github.com/roboguice/roboguice
 [Scopes](https://github.com/emmano/Scopes) | https://github.com/emmano/Scopes
+[guice](https://github.com/google/guice) |
+[SwissKnife](https://github.com/Arasthel/SwissKnife) |
 
 ## JSON 
 Name | Repository
@@ -95,7 +98,7 @@ Name | Repository
 [Cupboard for Android](https://bitbucket.org/littlerobots/cupboard) | https://bitbucket.org/littlerobots/cupboard
 [DBFlow](https://github.com/Raizlabs/DBFlow) | https://github.com/Raizlabs/DBFlow
 [RushOrm](http://www.rushorm.com/) | https://github.com/Stuart-campbell/RushOrm
-[Sugar ORM](http://satyan.github.io/sugar/) | https://github.com/satyan/sugar
+[Sugar ORM](http://satyan.github.io/sugar/) | https://github.com/chennaione/sugar
 [Shillelagh](https://github.com/pieces029/shillelagh) | https://github.com/pieces029/shillelagh
 [SQLBrite](https://github.com/square/sqlbrite) | https://github.com/square/sqlbrite
 [Ollie](https://github.com/pardom/Ollie) | https://github.com/pardom/Ollie
@@ -126,6 +129,10 @@ Name | Repository
 [ActiveAndroid](https://github.com/pardom/ActiveAndroid) | 
 [LiteOrm](https://github.com/litesuits/android-lite-orm) | 
 [requery](https://github.com/requery/requery) | 
+[sqlbrite-migrations](https://github.com/lykmapipo/sqlbrite-migrations) | 
+[DBFlowManager](https://github.com/wajahatkarim3/DBFlowManager) | 
+[android-realm-asset-helper](https://github.com/eggheadgames/android-realm-asset-helper) | 
+[sqldelight](https://github.com/square/sqldelight) | 
 
 ## NoSQL
 Name | Repository
@@ -143,6 +150,7 @@ Name | Repository
 [Otto](http://square.github.io/otto/) | https://github.com/square/otto
 [MBassador](https://github.com/bennidi/mbassador) | https://github.com/bennidi/mbassador
 [drekkar](https://github.com/coshx/drekkar) | https://github.com/coshx/drekkar
+[AndroidEventBus](https://github.com/hehonghui/AndroidEventBus) |
 
 ## Logger
 Name | Repository
@@ -192,6 +200,7 @@ Name | Repository
 --- | ---
 [ASNE](https://github.com/gorbin/ASNE) | https://github.com/gorbin/ASNE
 [SocialLoginManager](https://github.com/jaychang0917/SocialLoginManager) |
+[SocialAuthHelper](https://github.com/stfalcon-studio/SocialAuthHelper) |
 
 ## WebRTC
 Name | Repository
@@ -294,6 +303,7 @@ Name | Repository
 [leakcanary](https://github.com/square/leakcanary) | https://github.com/square/leakcanary
 [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor) | https://github.com/markzhai/AndroidPerformanceMonitor
 [TinyDancer](https://github.com/friendlyrobotnyc/TinyDancer) | ![](https://raw.githubusercontent.com/brianPlummer/TinyDancer/master/assets/tiny_dancer_011_example.gif)
+[ANR-WatchDog](https://github.com/SalomonBrys/ANR-WatchDog) | 
 
 ## Gradle
 Name | Repository
@@ -339,12 +349,25 @@ Name | Repository
 [dagger](https://github.com/google/dagger) |
 [preferencebinder](https://github.com/denley/preferencebinder) |
 [fragmentargs](https://github.com/sockeqwe/fragmentargs) |
+[transfuse](https://github.com/johncarl81/transfuse) |
 []() |
 
 ## Injector
 Name | Repository
 --- | ---
 [OnActivityResult](https://github.com/vanniktech/OnActivityResult) |
+
+## Kotlin
+Name | Repository
+--- | ---
+[anko](https://github.com/Kotlin/anko) |
+[kotterknife](https://github.com/JakeWharton/kotterknife) |
+[KAndroid](https://github.com/pawegio/KAndroid) |
+[android-kotlin-samples](https://github.com/irontec/android-kotlin-samples) |
+[Kotlin-Example](https://github.com/myinnos/Kotlin-Example) |
+[Pocket](https://github.com/RxKotlin/Pocket) |
+[KPreferences](https://github.com/mohamad-amin/KPreferences) |
+[]() |
 
 ## Adapter
 Name | Repository
@@ -380,6 +403,9 @@ Name | Repository
 [AndroidSmoothBluetooth](https://github.com/palaima/AndroidSmoothBluetooth) |
 [android-lite-bluetoothLE](https://github.com/litesuits/android-lite-bluetoothLE) |
 [BluetoothHelper](https://github.com/a-voyager/BluetoothHelper) |
+[SmartGattLib](https://github.com/movisens/SmartGattLib) | SmartGattLib is a Java library that simplifies the work with Bluetooth SMART devices
+[Bluetooth-LE-Library](https://github.com/alt236/Bluetooth-LE-Library---Android) |
+[Blueteeth](https://github.com/RobotPajamas/Blueteeth) |
 
 ## SocialNetworks
 Name | Repository
@@ -397,6 +423,8 @@ Name | Repository
 [barber](https://github.com/hzsweers/barber) |
 [Android-AnnotatedSQL](https://github.com/hamsterksu/Android-AnnotatedSQL) |
 [Favor](https://github.com/soarcn/Favor) |
+[ContentProviderCodeGenerator](https://github.com/foxykeep/ContentProviderCodeGenerator) |
+[ParcelablePlease](https://github.com/sockeqwe/ParcelablePlease) |
 
 ## Media
 Name | Repository
@@ -493,6 +521,8 @@ Name | Repository
 [thumbor](https://github.com/thumbor/thumbor) |
 [ParseAlternativesServices](https://github.com/minhhuy150894/ParseAlternativesServices) |
 [deepstream.io](https://github.com/deepstreamIO/deepstream.io) |
+[open-weather-retriever-z](https://github.com/czack810150/open-weather-retriever-z) |
+[HockeySDK-Android](https://github.com/bitstadium/HockeySDK-Android) |
 
 ## Test
 Name | Repository
@@ -507,7 +537,7 @@ Name | Repository
 [android-junit-report](https://github.com/jsankey/android-junit-report) |
 [powermock](https://github.com/powermock/powermock) |
 [green-coffee](https://github.com/mauriciotogneri/green-coffee) |
-[robolectric](http://robolectric.org/) |
+[robolectric](https://github.com/robolectric/robolectric) |
 
 ## Tracking
 Name | Repository
@@ -520,6 +550,7 @@ Name | Repository
 ## Debug
 Name | Repository
 --- | ---
+[stf](https://github.com/openstf/stf) |
 [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) |
 [under-the-hood](https://github.com/patrickfav/under-the-hood) |
 [uber-adb-tools](https://github.com/patrickfav/uber-adb-tools) |
@@ -531,6 +562,10 @@ Name | Repository
 [debugkit](https://github.com/hulab/debugkit) |
 [AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder) |
 [Takt](https://github.com/wasabeef/Takt) | ![](https://github.com/wasabeef/Takt/raw/master/art/takt.gif)
+[uber-apk-signer](https://github.com/patrickfav/uber-apk-signer) | 
+[Traceur](https://github.com/T-Spoon/Traceur) | 
+[Android-DebugPort](https://github.com/jasonwyatt/Android-DebugPort) | 
+[AndroidSnooper](https://github.com/jainsahab/AndroidSnooper) | 
 
 ## App / Demo
 Name | Repository
@@ -591,12 +626,26 @@ Name | Repository
 [Mysplash](https://github.com/WangDaYeeeeee/Mysplash) |
 [FastAccess](https://github.com/k0shk0sh/FastAccess) |
 [JieCaoVideoPlayer](https://github.com/lipangit/JieCaoVideoPlayer) |
+[MotionViews-Android](https://github.com/uptechteam/MotionViews-Android) |
+[Signal-Android](https://github.com/WhisperSystems/Signal-Android) |
+[wechat](https://github.com/motianhuo/wechat) |
+[Etar-Calendar](https://github.com/Etar-Group/Etar-Calendar) |
+[]() |
+[]() |
 
 ## Security
 Name | Repository
 --- | ---
 [tweetnacl-java](https://github.com/InstantWebP2P/tweetnacl-java) |
 [AESCrypt-Android](https://github.com/scottyab/AESCrypt-Android) |
+
+## Tracking
+Name | Repository
+--- | ---
+[countly-sdk-android](https://github.com/Countly/countly-sdk-android) |
+[mixpanel-android](https://github.com/mixpanel/mixpanel-android) |
+[clevertap-android-sdk](https://github.com/CleverTap/clevertap-android-sdk) |
+[tune](https://www.tune.com/) |
 
 ## Theme / Skin
 Name | Repository
@@ -623,6 +672,7 @@ Name | Repository
 [Catcho](https://github.com/alhazmy13/Catcho) | 
 [Apteligent](https://www.apteligent.com/) |
 [BugfenderSDK](https://github.com/bugfender/BugfenderSDK-android-sample) | https://github.com/bugfender/BugfenderSDK-android-sample
+[Sherlock](https://github.com/ajitsing/Sherlock) |
 
 ## Android Wear
 Name | Repository
@@ -643,7 +693,14 @@ Name | Repository
 [backdoor-apk](https://github.com/dana-at-cp/backdoor-apk) |
 [enjarify](https://github.com/google/enjarify) |
 [dexterity](https://github.com/rchiossi/dexterity) |
+[android-classyshark](https://github.com/google/android-classyshark) |
 []() |
+
+## Cache
+Name | Repository
+--- | ---
+[DiskLruCache](https://github.com/JakeWharton/DiskLruCache) |
+[ASimpleCache](https://github.com/yangfuhai/ASimpleCache) |
 
 ## Rx
 Name | Repository
@@ -696,6 +753,17 @@ Name | Repository
 [packagehunter](https://github.com/nisrulz/packagehunter) |
 [zentone](https://github.com/nisrulz/zentone) |
 [ActivityRouter](https://github.com/mzule/ActivityRouter) | <img src="https://raw.githubusercontent.com/mzule/ActivityRouter/master/gif/router.gif" width="250" height="490">
+[byte-buddy](https://github.com/raphw/byte-buddy) |
+[CastCompanionLibrary-android](https://github.com/googlecast/CastCompanionLibrary-android) |
+[ReLinker](https://github.com/KeepSafe/ReLinker) |
+[davdroid](https://github.com/bitfireAT/davdroid) |
+[java-error-handler](https://github.com/Workable/java-error-handler) |
+[alfi](https://github.com/cesarferreira/alfi) |
+[USB-Device-Info](https://github.com/alt236/USB-Device-Info---Android) |
+[androidsvg](https://github.com/BigBadaboom/androidsvg) |
+[SVG2Drawable](https://github.com/StanKocken/SVG2Drawable) |
+[svgkit-android](http://scand.com/products/svgkit-android/index.html) |
+[Android-Material-Design-Colors](https://github.com/wada811/Android-Material-Design-Colors) |
 
 ## Books
 Name | Repository
