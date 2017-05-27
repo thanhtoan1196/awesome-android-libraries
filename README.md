@@ -36,7 +36,6 @@ A curated list of awesome Android libraries. Feel free to contrubute.
 ## Networking
 Name | Description
 --- | ---
-[Android Asynchronous Http Client](http://loopj.com/android-async-http) | https://github.com/loopj/android-async-http
 [Async Http Client](https://github.com/AsyncHttpClient/async-http-client) | https://github.com/AsyncHttpClient/async-http-client
 [ion](https://github.com/koush/ion) | https://github.com/koush/ion
 [OkHttp](http://square.github.io/okhttp/) | https://github.com/square/okhttp
@@ -55,6 +54,7 @@ Name | Description
 [Packetzoom](https://packetzoom.com/blog/introducing-http-optimizer-and-analytics-service.html) |
 [chuck](https://github.com/jgilfelt/chuck) |
 [autobahn-java](https://github.com/crossbario/autobahn-java) |
+[unirest-java](https://github.com/mashape/unirest-java) |
 
 ## Image Loader
 Name | Repository
@@ -133,6 +133,9 @@ Name | Repository
 [DBFlowManager](https://github.com/wajahatkarim3/DBFlowManager) | 
 [android-realm-asset-helper](https://github.com/eggheadgames/android-realm-asset-helper) | 
 [sqldelight](https://github.com/square/sqldelight) | 
+[sqlite-provider](https://github.com/novoda/sqlite-provider) | 
+[sqlitemagic](https://github.com/SiimKinks/sqlitemagic) | 
+[AndroidQuery](https://github.com/FredJul/AndroidQuery) | 
 
 ## NoSQL
 Name | Repository
@@ -165,6 +168,7 @@ Name | Repository
 [Lynx](https://github.com/pedrovgs/Lynx) |
 [ShoutOut](https://github.com/nisrulz/ShoutOut) |
 [pidcat](https://github.com/JakeWharton/pidcat) |
+[logback-android](https://github.com/tony19/logback-android) |
 
 ## Background Processing
 Name | Repository
@@ -210,6 +214,7 @@ Name | Repository
 ## Image Processing
 Name | Repository
 --- | ---
+[pollexor](https://github.com/square/pollexor) |
 [GPUImage for Android](https://github.com/CyberAgent/android-gpuimage) | https://github.com/CyberAgent/android-gpuimage
 [Compressor](https://github.com/zetbaitsu/Compressor) | Compressor is a lightweight and powerful android image compression library, also support RxJava
 [Tiny](https://github.com/Sunzxyong/Tiny) |
@@ -276,10 +281,6 @@ Name | Repository
 [Nuwa](https://github.com/jasonross/Nuwa) | Nuwa, pure java implementation, can hotfix your android application.
 [dexposed](https://github.com/alibaba/dexposed) | dexposed enable 'god' mode for single android application.
 [Fit](https://github.com/KeithYokoma/Fit) | 
-
-## Other
-Name | Repository
---- | ---
 
 ## Showcases
 Name | Repository
@@ -441,7 +442,9 @@ Name | Repository
 [AndroidAudioConverter](https://github.com/adrielcafe/AndroidAudioConverter) |
 [AudioPlayerView](https://github.com/HugoMatilla/AudioPlayerView) |
 [UserAwareVideoView](https://github.com/kevalpatel2106/UserAwareVideoView) |
-[]() |
+[android-ffmpeg-with-rtmp](https://github.com/cine-io/android-ffmpeg-with-rtmp) |
+[ipcam-view](https://github.com/niqdev/ipcam-view) |
+[FFmpeg-Android](https://github.com/OnlyInAmerica/FFmpeg-Android) |
 
 ## Embedded
 Name | Repository
@@ -524,6 +527,16 @@ Name | Repository
 [open-weather-retriever-z](https://github.com/czack810150/open-weather-retriever-z) |
 [HockeySDK-Android](https://github.com/bitstadium/HockeySDK-Android) |
 
+## M
+Name | Repository
+--- | ---
+[smart-location-lib](https://github.com/mrmans0n/smart-location-lib) |
+[Google-Directions-Android](https://github.com/jd-alexander/Google-Directions-Android) |
+[android-maps-extensions](https://github.com/mg6maciej/android-maps-extensions) |
+[MapScaleView](https://github.com/pengrad/MapScaleView) |
+[android-maps-utils](https://github.com/googlemaps/android-maps-utils) |
+[AirMapView](https://github.com/airbnb/AirMapView) |
+
 ## Test
 Name | Repository
 --- | ---
@@ -538,6 +551,8 @@ Name | Repository
 [powermock](https://github.com/powermock/powermock) |
 [green-coffee](https://github.com/mauriciotogneri/green-coffee) |
 [robolectric](https://github.com/robolectric/robolectric) |
+[spoon](https://github.com/square/spoon) |
+[sixpack-java](https://github.com/sixpack/sixpack-java) |
 
 ## Tracking
 Name | Repository
@@ -566,6 +581,7 @@ Name | Repository
 [Traceur](https://github.com/T-Spoon/Traceur) | 
 [Android-DebugPort](https://github.com/jasonwyatt/Android-DebugPort) | 
 [AndroidSnooper](https://github.com/jainsahab/AndroidSnooper) | 
+[debug-artist](https://github.com/baristaventures/debug-artist) | 
 
 ## App / Demo
 Name | Repository
@@ -711,6 +727,8 @@ Name | Repository
 [RxAndroidBle](https://github.com/Polidea/RxAndroidBle) |
 [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) |
 [rx-preferences](https://github.com/f2prateek/rx-preferences) |
+[Rx.Network](https://github.com/andrefio/Rx.Network) |
+[Rx.ContentObservable](https://github.com/andrefio/Rx.ContentObservable) |
 
 ## Other 
 Name | Repository
@@ -764,6 +782,7 @@ Name | Repository
 [SVG2Drawable](https://github.com/StanKocken/SVG2Drawable) |
 [svgkit-android](http://scand.com/products/svgkit-android/index.html) |
 [Android-Material-Design-Colors](https://github.com/wada811/Android-Material-Design-Colors) |
+[keyboard-dismisser](https://github.com/GabrielSamojlo/keyboard-dismisser) |
 
 ## Books
 Name | Repository
