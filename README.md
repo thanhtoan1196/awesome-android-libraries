@@ -36,152 +36,120 @@ A curated list of awesome Android libraries. Feel free to contrubute.
 ## Networking
 Name | Description
 --- | ---
-[Async Http Client](https://github.com/AsyncHttpClient/async-http-client) | https://github.com/AsyncHttpClient/async-http-client
-[ion](https://github.com/koush/ion) | https://github.com/koush/ion
-[OkHttp](http://square.github.io/okhttp/) | https://github.com/square/okhttp
-[Retrofit](http://square.github.io/retrofit/) | https://github.com/square/retrofit
-[RxNetty](https://github.com/ReactiveX/RxNetty) | https://github.com/ReactiveX/RxNetty
-[Basic HTTP Client for Java](https://code.google.com/p/basic-http-client/) | https://code.google.com/p/basic-http-client/
-[android-async-http](https://github.com/loopj/android-async-http) | https://github.com/loopj/android-async-http
-[AndroidAsync](https://github.com/koush/AndroidAsync) | https://github.com/koush/AndroidAsync
-[async-http-client](https://github.com/AsyncHttpClient/async-http-client) | https://github.com/AsyncHttpClient/async-http-client
-[android-upload-service](https://github.com/gotev/android-upload-service) | https://github.com/gotev/android-upload-service
-[robospice](https://github.com/stephanenicolas/robospice) | https://github.com/stephanenicolas/robospice
-[NetworkEvents](https://github.com/pwittchen/NetworkEvents) | https://github.com/pwittchen/NetworkEvents
-[Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) | https://github.com/amitshekhariitbhu/Fast-Android-Networking
-[node-android](https://github.com/InstantWebP2P/node-android) |
-[RESTMock](https://github.com/andrzejchm/RESTMock) |
-[Packetzoom](https://packetzoom.com/blog/introducing-http-optimizer-and-analytics-service.html) |
-[chuck](https://github.com/jgilfelt/chuck) |
-[autobahn-java](https://github.com/crossbario/autobahn-java) |
-[unirest-java](https://github.com/mashape/unirest-java) |
+**[Retrofit](http://square.github.io/retrofit/)** | Type-safe HTTP client for Android and Java by Square, Inc.
+[Fast-Android-Networking](https://github.com/amitshekhariitbhu/Fast-Android-Networking) | Fast Android Networking Library is a powerful library for doing any type of networking in Android applications which is made on top of OkHttp Networking Layer
+[ion](https://github.com/koush/ion) | Android Asynchronous Networking and Image Loading
+[Async Http Client](https://github.com/AsyncHttpClient/async-http-client) | Asynchronous Http and WebSocket Client library for Java
+[OkHttp](https://github.com/square/okhttp) | An HTTP & HTTP/2 client for Android and Java applications
+[android-async-http](https://github.com/loopj/android-async-http) | An asynchronous, callback-based Http client for Android built on top of Apache's HttpClient libraries
+[unirest-java](https://github.com/mashape/unirest-java) | Unirest in Java: Simplified, lightweight HTTP client library
+[AndroidAsync](https://github.com/koush/AndroidAsync) | AndroidAsync is a low level network protocol library
+[autobahn-java](https://github.com/crossbario/autobahn-java) | WebSocket & Web Application Messaging Protocol (WAMP) in Java for Android and Java 8
+[android-upload-service](https://github.com/gotev/android-upload-service) | Easily upload files (FTP / Multipart / Binary) in the background with progress indication notification
+**[chuck](https://github.com/jgilfelt/chuck)** | Chuck intercepts and persists all HTTP requests and responses inside your application, and provides a UI for inspecting their content
+**[robospice](https://github.com/stephanenicolas/robospice)** | RoboSpice is a modular android library that makes writing asynchronous network requests easy
+**[ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork)** | Android library listening network connection state and Internet connectivity with RxJava Observables
+[NetworkEvents](https://github.com/pwittchen/NetworkEvents) | Android library listening network connection state and change of the WiFi signal strength with event bus
+[ReactiveWiFi](https://github.com/pwittchen/ReactiveWiFi) | Android library listening available WiFi Access Points and related information with RxJava Observables
+[node-android](https://github.com/InstantWebP2P/node-android) | Run Node.js on Android by rewrite Node.js in Java with the compatible API
 
 ## Image Loader
 Name | Repository
 --- | ---
-[Glide](https://github.com/bumptech/glide) | https://github.com/bumptech/glide
-[ion](https://github.com/koush/ion) | https://github.com/koush/ion
-[Picasso](http://square.github.io/picasso) | https://github.com/square/picasso
-[Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | https://github.com/nostra13/Android-Universal-Image-Loader
-[Fresco](http://frescolib.org) | https://github.com/facebook/fresco
-## Drawable
-Name | Repository
---- | ---
-[MrVector](https://github.com/telly/MrVector) | https://github.com/telly/MrVector
+**[Glide](https://github.com/bumptech/glide)** | An image loading and caching library for Android focused on smooth scrolling
+[Fresco](http://frescolib.org) | An Android library for managing images and the memory they use
+[ion](https://github.com/koush/ion) | Android Asynchronous Networking and Image Loading
+[Picasso](https://github.com/square/picasso) | A powerful image downloading and caching library for Android
+[Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | Powerful and flexible library for loading, caching and displaying images on Android
 
 ## Dependency Injections
 Name | Repository
 --- | ---
-[AndroidAnnotations](http://androidannotations.org/) | https://github.com/excilys/androidannotations
-[Dagger 2](https://github.com/google/dagger) | https://github.com/google/dagger
-[Butter Knife](http://jakewharton.github.io/butterknife/) | https://github.com/JakeWharton/butterknife
-[Dagger(Square)](http://square.github.io/dagger/) | https://github.com/square/dagger
-[Dagger(Google)](https://github.com/google/dagger) | https://github.com/google/dagger
-[RoboGuice](https://github.com/roboguice/roboguice) | https://github.com/roboguice/roboguice
-[Scopes](https://github.com/emmano/Scopes) | https://github.com/emmano/Scopes
-[guice](https://github.com/google/guice) |
-[SwissKnife](https://github.com/Arasthel/SwissKnife) |
+**[Dagger 2](https://github.com/google/dagger)** | A fast dependency injector for Android and Java
+**[Butter Knife](https://github.com/JakeWharton/butterknife)** | Bind Android views and callbacks to fields and methods
+**[AndroidAnnotations](https://github.com/androidannotations/androidannotations)** | Fast Android Development. Easy maintainance
+
+## Code Generation
+Name | Repository
+--- | ---
+**[Favor](https://github.com/soarcn/Favor)** | A easy way to use android sharepreference
+[barber](https://github.com/hzsweers/barber) | A custom view styling library for Android that generates the obtainStyledAttributes() and TypedArray boilerplate code for yo
+[android-contentprovider-generator](https://github.com/BoD/android-contentprovider-generator) | A tool to generate Android ContentProviders
+[javapoet](https://github.com/square/javapoet) | A Java API for generating .java source files
+**[parceler](https://github.com/johncarl81/parceler)** | Android Parcelables made easy through code generation
+[auto-parcel](https://github.com/frankiesardo/auto-parcel) | Android Parcelable models made easy
 
 ## JSON 
 Name | Repository
 --- | ---
-[Gson](https://code.google.com/p/google-gson/) | http://google-gson.googlecode.com/svn/trunk/
-[ig-json-parser](https://github.com/Instagram/ig-json-parser) | https://github.com/Instagram/ig-json-parser
-[Jackson](http://jackson.codehaus.org/) | https://github.com/FasterXML/jackson
-[moshi](https://github.com/square/moshi) | https://github.com/square/moshi
+**[Gson](https://github.com/google/gson)** | A Java serialization/deserialization library to convert Java Objects into JSON and back
+[moshi](https://github.com/square/moshi) | A modern JSON library for Android and Java
+[ig-json-parser](https://github.com/Instagram/ig-json-parser) | Fast JSON parser for java projects
+[Jackson](http://jackson.codehaus.org/) |  Formerly known as the standard JSON library for Java
 
 ## O/R Mapping 
 Name | Repository
 --- | ---
-[ActiveAndroid](http://www.activeandroid.com/) | https://github.com/pardom/ActiveAndroid
-[storio](https://github.com/pushtorefresh/storio) | https://github.com/pushtorefresh/storio
-[Cupboard for Android](https://bitbucket.org/littlerobots/cupboard) | https://bitbucket.org/littlerobots/cupboard
-[DBFlow](https://github.com/Raizlabs/DBFlow) | https://github.com/Raizlabs/DBFlow
-[RushOrm](http://www.rushorm.com/) | https://github.com/Stuart-campbell/RushOrm
-[Sugar ORM](http://satyan.github.io/sugar/) | https://github.com/chennaione/sugar
-[Shillelagh](https://github.com/pieces029/shillelagh) | https://github.com/pieces029/shillelagh
-[SQLBrite](https://github.com/square/sqlbrite) | https://github.com/square/sqlbrite
-[Ollie](https://github.com/pardom/Ollie) | https://github.com/pardom/Ollie
-[TriOrm](https://github.com/HendrixString/Android-TriOrm) | https://github.com/HendrixString/Android-TriOrm
+[storio](https://github.com/pushtorefresh/storio) | Beautiful API for SQLiteDatabase and ContentResolver
 [DBFlow](https://github.com/Raizlabs/DBFlow) | A blazing fast, powerful, and very simple ORM android database library that writes database code for you
-[RushOrm](https://github.com/Stuart-campbell/RushOrm) | https://github.com/Stuart-campbell/RushOrm 
-[Android-Orma](https://github.com/gfx/Android-Orma) | A lightning-fast ORM for Android as a wrapper of SQLiteDatabase 
-[SquiDB](https://github.com/yahoo/squidb) | is a simple SQLite database layer for Android
-[Cupboard](https://bitbucket.org/qbusict/cupboard) | Simple persistence that gets out of your way and is easy to add to your existing code base
-[RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase) | A wrapper to replicate android's SQLiteDatabase with restoring capability.
+[DBFlowManager](https://github.com/wajahatkarim3/DBFlowManager) | A quick and easy database manager plugin library for your DBFlow databases
+[Cupboard](https://bitbucket.org/littlerobots/cupboard) | Cupboard for Android is simple persistence that gets out of your way and is easy to add to your existing code base
+[sugar](https://github.com/satyan/sugar) | Insanely easy way to work with Android Database
 [sqlbrite](https://github.com/square/sqlbrite) | A lightweight wrapper around SQLiteOpenHelper which introduces reactive stream semantics to SQL operations.
-[realm-java](https://github.com/realm/realm-java) | Realm is a mobile database: a replacement for SQLite & ORMs
-[android-realm-asset-helper](https://github.com/eggheadgames/android-realm-asset-helper) | 
-[LitePal](https://github.com/LitePalFramework/LitePal) | An Android library that allows developers to use SQLite database extremely easy.
-[DBExecutor](https://github.com/LuckyJayce/DBExecutor) | 
-[Android-AnnotatedSQL](https://github.com/hamsterksu/Android-AnnotatedSQL) | Android library for auto generating SQL schema and Content provider
-[SQLiteProvider](https://github.com/novoda/SQLiteProvider) | 
-[RxSimpleNoSQL](https://github.com/xmartlabs/RxSimpleNoSQL) | 
-[SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL) | 
-[couchbase-lite-android](https://github.com/couchbase/couchbase-lite-android) | 
-[android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher) | 
-[sprinkles](https://github.com/emilsjolander/sprinkles) | 
-[android-sqlite-asset-helper](https://github.com/jgilfelt/android-sqlite-asset-helper) | 
-[ormdroid](https://github.com/roscopeco/ormdroid) | 
-[orman](https://github.com/ahmetalpbalkan/orman) | 
-[androrm](https://github.com/androrm/androrm/) | 
-[sugar](https://github.com/satyan/sugar) | 
-[ActiveAndroid](https://github.com/pardom/ActiveAndroid) | 
-[LiteOrm](https://github.com/litesuits/android-lite-orm) | 
-[requery](https://github.com/requery/requery) | 
 [sqlbrite-migrations](https://github.com/lykmapipo/sqlbrite-migrations) | 
-[DBFlowManager](https://github.com/wajahatkarim3/DBFlowManager) | 
-[android-realm-asset-helper](https://github.com/eggheadgames/android-realm-asset-helper) | 
-[sqldelight](https://github.com/square/sqldelight) | 
-[sqlite-provider](https://github.com/novoda/sqlite-provider) | 
-[sqlitemagic](https://github.com/SiimKinks/sqlitemagic) | 
-[AndroidQuery](https://github.com/FredJul/AndroidQuery) | 
+[Android-Orma](https://github.com/gfx/Android-Orma) | A lightning-fast ORM for Android as a wrapper of SQLiteDatabase 
+[SquiDB](https://github.com/yahoo/squidb) | is a simple SQLite database layer for Android 
+[LitePal](https://github.com/LitePalFramework/LitePal) | An Android library that allows developers to use SQLite database extremely easy.
+[SQLiteProvider](https://github.com/novoda/SQLiteProvider) | Extended SQLite functionality for Android
+[android-database-sqlcipher](https://github.com/sqlcipher/android-database-sqlcipher) | Android SQLite API based on SQLCipher
+[realm-java](https://github.com/realm/realm-java) | Realm is a mobile database: a replacement for SQLite & ORMs
+[android-realm-asset-helper](https://github.com/eggheadgames/android-realm-asset-helper) | A small library to help with Realm.IO integration in Android apps
+[ActiveAndroid](https://github.com/pardom/ActiveAndroid) | Active record style SQLite persistence for Android 
+[requery](https://github.com/requery/requery) | modern SQL based query & persistence for Java / Kotlin / Android
+[sqlitemagic](https://github.com/SiimKinks/sqlitemagic) | Compile time processed, annotation driven, no reflection SQLite database layer for Android
+[AndroidQuery](https://github.com/FredJul/AndroidQuery) | AndroidQuery is an Android ORM for SQLite and ContentProvider which focuses on easy of use and performances thanks to annotation processing and code generation
+[RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase) | A wrapper to replicate android's SQLiteDatabase with restoring capability.
+[sqldelight](https://github.com/square/sqldelight) | Generates Java models from CREATE TABLE statements
+[TriOrm](https://github.com/HendrixString/Android-TriOrm) | a 3d database ORM experiment
 
 ## NoSQL
 Name | Repository
 --- | ---
-[Couchbase-Lite-Android](http://developer.couchbase.com/mobile/) | https://github.com/couchbase/couchbase-lite-android
-[Realm](http://realm.io/) | https://github.com/realm/realm-java
-[SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL) | https://github.com/Jearil/SimpleNoSQL
-[RxSimpleNoSQL](https://github.com/xmartlabs/RxSimpleNoSQL) | https://github.com/xmartlabs/RxSimpleNoSQL
-[SnappyDB](http://www.snappydb.com/) | https://github.com/nhachicha/SnappyDB
+[Couchbase-Lite-Android](https://github.com/couchbase/couchbase-lite-android) | Lightweight, embedded, syncable NoSQL database engine for Android
+[SnappyDB](http://www.snappydb.com/) | A key-value database for Android
+[SimpleNoSQL](https://github.com/Jearil/SimpleNoSQL) | A simple NoSQL client for Android. Meant as a document store using key/value pairs and some rudimentary querying. Useful for avoiding the hassle of SQL code
+[RxSimpleNoSQL](https://github.com/xmartlabs/RxSimpleNoSQL) | Reactive extensions for SimpleNoSQL
 
 ## Pub/Sub
 Name | Repository
 --- | ---
-[EventBus](https://github.com/greenrobot/EventBus) | https://github.com/greenrobot/EventBus
-[Otto](http://square.github.io/otto/) | https://github.com/square/otto
-[MBassador](https://github.com/bennidi/mbassador) | https://github.com/bennidi/mbassador
-[drekkar](https://github.com/coshx/drekkar) | https://github.com/coshx/drekkar
-[AndroidEventBus](https://github.com/hehonghui/AndroidEventBus) |
+[EventBus](https://github.com/greenrobot/EventBus) | Android optimized event bus that simplifies communication between Activities, Fragments, Threads, Services, etc
+[AndroidEventBus](https://github.com/hehonghui/AndroidEventBus) | A lightweight eventbus library for android, simplifies communication between Activities, Fragments, Threads, Services, etc
+[Otto](https://github.com/square/otto) | An enhanced Guava-based event bus with emphasis on Android suppor
+[drekkar](https://github.com/coshx/drekkar) | An Android event bus for WebView and JS
 
 ## Logger
 Name | Repository
 --- | ---
-[Hugo](https://github.com/JakeWharton/hugo) | https://github.com/JakeWharton/hugo
-[Timber](https://github.com/JakeWharton/timber) | https://github.com/JakeWharton/timber
-[LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor) | https://github.com/ihsanbal/LoggingInterceptor
-[LogcatTextView](https://github.com/munix/LogcatTextView) | https://github.com/munix/LogcatTextView
-[CodeView](https://github.com/tiagohm/CodeView) | https://github.com/tiagohm/CodeView
-[logger](https://github.com/orhanobut/logger) | https://github.com/orhanobut/logger
-[EzyLogger](https://github.com/afiqiqmal/EzyLogger) |
-[Lynx](https://github.com/pedrovgs/Lynx) |
-[ShoutOut](https://github.com/nisrulz/ShoutOut) |
-[pidcat](https://github.com/JakeWharton/pidcat) |
-[logback-android](https://github.com/tony19/logback-android) |
+**[Hugo](https://github.com/JakeWharton/hugo)** | Annotation-triggered method call logging for your debug builds
+**[logger](https://github.com/orhanobut/logger)** | Simple, pretty and powerful logger for android
+**[LoggingInterceptor](https://github.com/ihsanbal/LoggingInterceptor)** | An OkHttp interceptor which pretty logs request and response data
+**[Timber](https://github.com/JakeWharton/timber)** | A logger with a small, extensible API which provides utility on top of Android's normal Log class
+[logback-android](https://github.com/tony19/logback-android) | The reliable, generic, fast and flexible logging framework for Java on Android
+[pidcat](https://github.com/JakeWharton/pidcat) | Colored logcat script which only shows log entries for a specific application package
 
 ## Background Processing
 Name | Repository
 --- | ---
-[Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) | https://github.com/yigit/android-priority-jobqueue
-[Tape](http://square.github.io/tape/) | https://github.com/square/tape
-[Zorn](https://github.com/HendrixString/Android-Zorn) | https://github.com/HendrixString/Android-Zorn
-[android-job](https://github.com/evernote/android-job) | https://github.com/evernote/android-job
+[Android Priority Job Queue](https://github.com/yigit/android-priority-jobqueue) | A Job Queue specifically written for Android to easily schedule jobs (tasks) that run in the background, improving UX and application stability
+[android-job](https://github.com/evernote/android-job) | Android library to handle jobs in the background
+[Tape](https://github.com/square/tape) | A lightning fast, transactional, file-based FIFO for Android and Java
+[Zorn](https://github.com/HendrixString/Android-Zorn) | Async Workers and Worker managers for Android
 
 ## Fonts
 Name | Repository
 --- | ---
-[Calligraphy](https://github.com/chrisjenx/Calligraphy) | https://github.com/chrisjenx/Calligraphy
+[Calligraphy](https://github.com/chrisjenx/Calligraphy) | Custom fonts in Android the easy way
  
 ## Video
 Name | Repository
@@ -304,7 +272,8 @@ Name | Repository
 [leakcanary](https://github.com/square/leakcanary) | https://github.com/square/leakcanary
 [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor) | https://github.com/markzhai/AndroidPerformanceMonitor
 [TinyDancer](https://github.com/friendlyrobotnyc/TinyDancer) | ![](https://raw.githubusercontent.com/brianPlummer/TinyDancer/master/assets/tiny_dancer_011_example.gif)
-[ANR-WatchDog](https://github.com/SalomonBrys/ANR-WatchDog) | 
+[ANR-WatchDog](https://github.com/SalomonBrys/ANR-WatchDog) |
+[Packetzoom](https://packetzoom.com/blog/introducing-http-optimizer-and-analytics-service.html) |
 
 ## Gradle
 Name | Repository
@@ -412,20 +381,6 @@ Name | Repository
 Name | Repository
 --- | ---
 [AndroidSocialNetworks](https://github.com/antonkrasov/AndroidSocialNetworks) |
-
-## Code Generation
-Name | Repository
---- | ---
-[parceler](https://github.com/johncarl81/parceler) |
-[auto-parcel](https://github.com/frankiesardo/auto-parcel) |
-[android-contentprovider-generator](https://github.com/BoD/android-contentprovider-generator) |
-[pojobuilder](https://github.com/mkarneim/pojobuilder) |
-[javapoet](https://github.com/square/javapoet) |
-[barber](https://github.com/hzsweers/barber) |
-[Android-AnnotatedSQL](https://github.com/hamsterksu/Android-AnnotatedSQL) |
-[Favor](https://github.com/soarcn/Favor) |
-[ContentProviderCodeGenerator](https://github.com/foxykeep/ContentProviderCodeGenerator) |
-[ParcelablePlease](https://github.com/sockeqwe/ParcelablePlease) |
 
 ## Media
 Name | Repository
@@ -553,6 +508,7 @@ Name | Repository
 [robolectric](https://github.com/robolectric/robolectric) |
 [spoon](https://github.com/square/spoon) |
 [sixpack-java](https://github.com/sixpack/sixpack-java) |
+[RESTMock](https://github.com/andrzejchm/RESTMock) | REST API mocking made easy
 
 ## Tracking
 Name | Repository
@@ -729,6 +685,7 @@ Name | Repository
 [rx-preferences](https://github.com/f2prateek/rx-preferences) |
 [Rx.Network](https://github.com/andrefio/Rx.Network) |
 [Rx.ContentObservable](https://github.com/andrefio/Rx.ContentObservable) |
+[RxNetty](https://github.com/ReactiveX/RxNetty) | Reactive Extension (Rx) Adaptor for Netty
 
 ## Other 
 Name | Repository
@@ -783,6 +740,7 @@ Name | Repository
 [svgkit-android](http://scand.com/products/svgkit-android/index.html) |
 [Android-Material-Design-Colors](https://github.com/wada811/Android-Material-Design-Colors) |
 [keyboard-dismisser](https://github.com/GabrielSamojlo/keyboard-dismisser) |
+[EzyLogger](https://github.com/afiqiqmal/EzyLogger) |
 
 ## Books
 Name | Repository
