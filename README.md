@@ -5,6 +5,7 @@ A curated list of awesome Android libraries. Feel free to contrubute.
 ## Other Awesome List
 - [awesome-android](https://github.com/thanhtoan1196/awesome-android)
 - [awesome-android-ui](https://github.com/thanhtoan1196/awesome-android-ui)
+- [awesome-android-tips](https://github.com/thanhtoan1196/awesome-android-tips)
 
 ## Index
 - [Networking](#networking)
@@ -20,9 +21,6 @@ A curated list of awesome Android libraries. Feel free to contrubute.
 - [SharedPreference](#sharedpreference)
 - [Time](#time)
 - [Image Processing](#image-processing)
-- [Gradle](#gradle)
-- [Plugin](#plugin)
-- [Tools](#tools)
 - [Hotfix](#hotfix)
 - [Social Networks](#social-networks)
 - [SDK](#sdk)
@@ -68,7 +66,6 @@ Name | Description
 **[chuck](https://github.com/jgilfelt/chuck)** | Chuck intercepts and persists all HTTP requests and responses inside your application, and provides a UI for inspecting their content
 **[robospice](https://github.com/stephanenicolas/robospice)** | Repo of the Open Source Android library : RoboSpice. RoboSpice is a modular android library that makes writing asynchronous long running tasks easy
 [NetworkEvents](https://github.com/pwittchen/NetworkEvents) | Android library listening network connection state and change of the WiFi signal strength with event bus
-[ReactiveWiFi](https://github.com/pwittchen/ReactiveWiFi) | Android library listening available WiFi Access Points and related information with RxJava Observables
 [node-android](https://github.com/InstantWebP2P/node-android) | Run Node.js on Android by rewrite Node.js in Java with the compatible API
 
 ## JSON 
@@ -92,9 +89,10 @@ Name | Repository
 ## Rx
 Name | Repository
 --- | ---
-[RxJava2Interop](https://github.com/akarnokd/RxJava2Interop) | Library to convert between RxJava 1.x and 2.x reactive types
+**[RxJava2Interop](https://github.com/akarnokd/RxJava2Interop)** | Library to convert between RxJava 1.x and 2.x reactive types
 [ReactiveNetwork](https://github.com/pwittchen/ReactiveNetwork) | Android library listening network connection state and Internet connectivity with RxJava Observables
 [Rx.Network](https://github.com/andrefio/Rx.Network) | Observe Android's CONNECTIVITY_CHANGE broadcasts using RxJava
+[ReactiveWiFi](https://github.com/pwittchen/ReactiveWiFi) | Android library listening available WiFi Access Points and related information with RxJava Observables
 [Android-ReactiveLocation](https://github.com/mcharmas/Android-ReactiveLocation) | Small library that wraps Google Play Service API in brilliant RxJava Observables reducing boilerplate to minimum
 [RxFile](https://github.com/pavlospt/RxFile) | Rx methods to get a File and Image or Video thumbnails from a Document Provider on Android (Drive, Dropbox etc)
 [RxDownload](https://github.com/ssseasonnn/RxDownload) | Multi-thread download tool based on RxJava
@@ -227,56 +225,7 @@ Name | Repository
 [GPUImage for Android](https://github.com/CyberAgent/android-gpuimage) | Android filters based on OpenGL (idea from GPUImage for iOS)
 [Compressor](https://github.com/zetbaitsu/Compressor) | An android image compression library
 [Tiny](https://github.com/Sunzxyong/Tiny) | An image compression framework
-[AndroidFaceCropper](https://github.com/lafosca/AndroidFaceCropper) | Android bitmap Face Cropper
-
-## Gradle
-Name | Repository
---- | ---
-[gradle-play-publisher](https://github.com/Triple-T/gradle-play-publisher) | Gradle Plugin to upload your APK and metadata to the Google Play Store
-[dexcount-gradle-plugin](https://github.com/KeepSafe/dexcount-gradle-plugin) | A Gradle plugin to report the number of method references in your APK on every build
-[maven-android-sdk-deployer](https://github.com/simpligility/maven-android-sdk-deployer) |
-
-## Plugin
-Name | Repository
---- | ---
-[android-xml-sorter](https://github.com/roana0229/android-xml-sorter) | Android Studio & IntelliJ Plugin for sort xml by name="xxx"
-[android-material-design-icon-generator-plugin](https://github.com/konifar/android-material-design-icon-generator-plugin) | This plugin help you to set material design icon to your project 
-[android-selector-chapek](https://github.com/inmite/android-selector-chapek) | Android Studio plugin which automatically generates drawable selectors from appropriately named resources
-[android-parcelable-intellij-plugin](https://github.com/mcharmas/android-parcelable-intellij-plugin) | IntelliJ Plugin for Android Parcelable boilerplate code generation 
-[adb-idea](https://github.com/pbreault/adb-idea) |  plugin for Android Studio and Intellij IDEA that speeds up your day to day android development 
-[android-butterknife-zelezny](https://github.com/avast/android-butterknife-zelezny) | Android Studio plug-in for generating ButterKnife injections from selected layout XML 
-[GsonFormat](https://github.com/zzz40500/GsonFormat) | This is a plugin you can generate Json model from Json String
-[CodeGlance](https://github.com/Vektah/CodeGlance) | Intelij IDEA plugin for displaying a code mini-map similar to the one found in Sublime
-[ADBWIFI](https://github.com/layerlre/ADBWIFI) | ADBWIFI Android Studio plugin for debug android app over Wi-Fi 
-[android-styler](https://github.com/alexzaitsev/android-styler) | Android Studio / IDEA plugin that helps to create styles 
-[android-drawable-importer-intellij-plugin](https://github.com/winterDroid/android-drawable-importer-intellij-plugin) | Adds an option to IntelliJ to import drawables in different resolutions from AndroidIcons, own "drawable repos" and scale a certain image down/up to the defined resolutions 
-[genymotion](https://plugins.jetbrains.com/plugin/7269-genymotion) | This plugin allows you to create and start Genymotion virtual devices from Android Studio 
-[dagger-intellij-plugin](https://github.com/square/dagger-intellij-plugin) | An IntelliJ IDEA plugin for Dagger which provides insight into how injections and providers are used
-[gradle-dependencies-helper](https://plugins.jetbrains.com/plugin/7299-gradle-dependencies-helper) | library is searched in Smart Code Completion by Maven repository 
-[AndroidProguardPlugin](https://github.com/zhonghanwen/AndroidProguardPlugin) | Android Studio generate proguard codes
-[idea-markdown](https://github.com/nicoulaj/idea-markdown) | Markdown language support for IntelliJ IDEA
-[idea-multimarkdown](https://github.com/vsch/idea-multimarkdown) | Markdown language support for IntelliJ IDEA
-[folding-plugin](https://github.com/dmytrodanylyk/folding-plugin) | Android File Grouping Plugin
-[gradle-retrolambda](https://github.com/evant/gradle-retrolambda) | A gradle plugin for getting java lambda support in java 6, 7 and android
-[idea-gitignore](https://github.com/hsz/idea-gitignore) | .ignore support plugin for IntelliJ IDEA
-[checkstyle-idea](https://github.com/jshiell/checkstyle-idea) | CheckStyle plug-in for IntelliJ IDEA
-[permissions-dispatcher-plugin](https://github.com/shiraji/permissions-dispatcher-plugin) | IntelliJ plugin for supporting PermissionsDispatcher
-[jetbrains-wakatime](https://github.com/wakatime/jetbrains-wakatime) | IntelliJ IDEA, PyCharm, RubyMine, PhpStorm, AppCode, AndroidStudio, Gogland, Rider, & WebStorm plugin for quantifying your coding
-[AndroidWiFiADB](https://github.com/pedrovgs/AndroidWiFiADB) | ntelliJ/AndroidStudio plugin which provides a button to connect your Android device over WiFi to install, run and debug your applications without a USB connected
-[AndroidLocalizationer](https://github.com/westlinkin/AndroidLocalizationer) | This is a Android Studio/ IntelliJ IDEA plugin to localize your Android app, translate your string resources automactically 
-
-## Tools
-Name | Repository
---- | ---
-[jadx](https://github.com/skylot/jadx) | Dex to Java decompiler
-[simplify](https://github.com/CalebFenton/simplify) | Generic Android Deobfuscator
-[apk2gold](https://github.com/lxdvs/apk2gold) | CLI tool for decompiling Android apps to Java. It does resources! It does Java! Its real easy!
-[procyon](https://bitbucket.org/mstrobel/procyon) | Procyon is a suite of Java metaprogramming tools focused on code generation and analysis
-[classyshark.com](http://classyshark.com/) |  handy Android and Java executables viewer
-[backdoor-apk](https://github.com/dana-at-cp/backdoor-apk) | backdoor-apk is a shell script that simplifies the process of adding a backdoor to any Android APK file. Users of this shell script should have working knowledge of Linux, Bash, Metasploit, Apktool, the Android SDK, smali, etc. This shell script is provided as-is without warranty of any kind and is intended for educational purposes only
-[enjarify](https://github.com/Storyyeller/enjarify) | Enjarify is a tool for translating Dalvik bytecode to equivalent Java bytecode. This allows Java analysis tools to analyze Android applications
-[dexterity](https://github.com/rchiossi/dexterity) | Dex manipulation library
-[android-classyshark](https://github.com/google/android-classyshark) | Executables (apk, multi-dex, jar) browser for Android, Java and Kotlin
+[AndroidFaceCropper](https://github.com/lafosca/AndroidFaceCropper) | Android bitmap Face Cropper 
 
 ## Hotfix
 Name | Repository
@@ -335,7 +284,7 @@ Name | Repository
 ## Crash Monitoring
 Name | Repository
 --- | ---
-**[Sherlock](https://github.com/ajitsing/Sherlock)** | Sherlock reports any crash that occurres in your application
+**[Sherlock](https://github.com/ajitsing/Sherlock)** | https://github.com/ajitsing/Sherlock
 **[Fabric Crashlytics](https://get.fabric.io/)**  | https://get.fabric.io 
 [Splunk MINT](https://mint.splunk.com/) | https://mint.splunk.com 
 [Bugsnag](https://www.bugsnag.com/) | https://www.bugsnag.com/
@@ -347,7 +296,7 @@ Name | Repository
 Name | Repository
 --- | ---
 [leakcanary](https://github.com/square/leakcanary) | A memory leak detection library for Android and Java
-[BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) |
+[BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) | Make performance bottleneck detection easily when app blocked
 [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor) | A transparent ui-block detection library for Android, app only needs one-line-code to setup
 [TinyDancer](https://github.com/friendlyrobotnyc/TinyDancer) | An android library for displaying fps from the choreographer and percentage of time with two or more frames dropped
 [ANR-WatchDog](https://github.com/SalomonBrys/ANR-WatchDog) | A simple watchdog that detects Android ANR (Application Not Responding) error and throws a meaningful exception
@@ -614,6 +563,13 @@ Name | Repository
 [u2020](https://github.com/JakeWharton/u2020) | A sample Android app which showcases advanced usage of Dagger among other open source libraries
 [MaterialPowerMenu](https://github.com/naman14/MaterialPowerMenu) | A demo of the power menu with Reveal and other animations
 [Pocket](https://github.com/RxKotlin/Pocket) | This is a first kotlin project
+[android-examples](https://github.com/nisrulz/android-examples) | Simple basic isolated apps, for budding android devs 
+[googlesamples](https://github.com/googlesamples) | Google Samples
+[codelabs](https://codelabs.developers.google.com/?cat=Android) | Google Developers Codelabs provide a guided, tutorial, hands-on coding experience
+[android-testing](https://github.com/googlesamples/android-testing) | A collection of samples demonstrating different frameworks and techniques for automated testing
+**[qualitymatters](https://github.com/artem-zinnatullin/qualitymatters)** | This is the app that follows all principles of [Android Development Culture Document](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/) 
+[]() | 
+[]() | 
 [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app for Android entirely written using Kotlin language
 [android-kotlin-samples](https://github.com/irontec/android-kotlin-samples) | Some basic samples of Kotlin for Android
 [Kotlin-Example](https://github.com/myinnos/Kotlin-Example) | An example for who are all going to start learning Kotlin programming language to develop Android application
