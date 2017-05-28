@@ -87,6 +87,7 @@ Name | Repository
 [ion](https://github.com/koush/ion) | Android Asynchronous Networking and Image Loading
 [Picasso](https://github.com/square/picasso) | A powerful image downloading and caching library for Android
 [Universal Image Loader](https://github.com/nostra13/Android-Universal-Image-Loader) | Powerful and flexible library for loading, caching and displaying images on Android
+**[Keyframes](https://github.com/facebookincubator/Keyframes)** | A library for converting Adobe AE shape based animations to a data format and playing it back on Android and iOS devices
 
 ## Rx
 Name | Repository
@@ -177,6 +178,7 @@ Name | Repository
 ## Utility
 Name | Repository
 --- | ---
+**[AndroidUtilCode](https://github.com/Blankj/AndroidUtilCode)** | Android developers should collect the following utils
 [essentials](https://github.com/greenrobot/essentials) | General purpose utilities and hash functions for Android and Java
 [AndroidCommons](https://github.com/alexvasilkov/AndroidCommons) | Various useful utilities for Android apps development
 [caffeine](https://github.com/percolate/caffeine) | A collection of utility classes that help make Android development faster (and safer!)
@@ -300,6 +302,7 @@ Name | Repository
 ## SDK
 Name | Repository
 --- | ---
+[Firebase](https://firebase.google.com/docs/android/setup) | Firebase gives you the tools to develop high-quality apps, grow your user base, and earn more money. We cover the essentials so you can monetize your business and focus on your users
 [cloudrail-si-android-sdk](https://github.com/CloudRail/cloudrail-si-android-sdk/) | Unified API Library for: Cloud Storage, Social Profiles, Payment, Email, SMS & POIs. Included services are Dropbox, Google Drive, OneDrive, Box, Facebook, GitHub, Google+, LinkedIn, Instagram, Slack, Twitter, Windows Live, Yahoo, PayPal, Stripe, Mailjet, Sendgrid, Twilio, Nexmo, Google Places, Foursquare, Yelp
 [ParseAlternativesServices](https://github.com/minhhuy150894/ParseAlternativesServices) | Parse Alternative back-end services for developer
 [deepstream.io](https://github.com/deepstreamIO/deepstream.io) | deepstream is a new type of server that syncs data and sends events across millions of clients
@@ -318,15 +321,16 @@ Name | Repository
 ## Tracking
 Name | Repository
 --- | ---
-[liquid-sdk-android](https://github.com/lqd-io/liquid-sdk-android) | https://onliquid.com/
-[HockeySDK-Android](https://github.com/bitstadium/HockeySDK-Android) | https://hockeyapp.net/
+[Google Analytics](https://developers.google.com/analytics/devguides/collection/android/v4/) | https://developers.google.com/analytics/devguides/collection/android/v4
+[Firebase Analytics](https://firebase.google.com/docs/analytics/) | https://firebase.google.com/docs/analytics
+[liquid-sdk-android](https://github.com/lqd-io/liquid-sdk-android) | https://onliquid.com
+[HockeySDK-Android](https://github.com/bitstadium/HockeySDK-Android) | https://hockeyapp.net
 [Packetzoom](https://packetzoom.com) | https://packetzoom.com
-[MobileAppTracking](https://www.tune.com/) | https://www.tune.com/
-[Mixpanel](https://mixpanel.com/) | https://mixpanel.com/
-[Countly](https://count.ly) | https://count.ly/
-[CleverTap](https://clevertap.com) | https://clevertap.com/
-[mixpanel-android](https://github.com/mixpanel/mixpanel-android) | http://mixpanel.com/
-[clevertap-android-sdk](https://github.com/CleverTap/clevertap-android-sdk) | https://clevertap.com/
+[MobileAppTracking](https://www.tune.com/) | https://www.tune.com
+[Countly](https://count.ly) | https://count.ly
+[CleverTap](https://clevertap.com) | https://clevertap.com
+[mixpanel-android](https://github.com/mixpanel/mixpanel-android) | http://mixpanel.com
+[clevertap-android-sdk](https://github.com/CleverTap/clevertap-android-sdk) | https://clevertap.com
 
 ## Crash Monitoring
 Name | Repository
