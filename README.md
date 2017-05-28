@@ -167,9 +167,9 @@ Name | Repository
 [auto-parcel](https://github.com/frankiesardo/auto-parcel) | Android Parcelable models made easy
 [Icepick](https://github.com/frankiesardo/icepick) | Android Instance State made easy
 [icicle](https://github.com/segunfamisa/icicle) | An annotation based tool for saving and restoring instance states
-[Akatsuki](https://github.com/tom91136/Akatsuki) | Android states and arguments made easy with annotations
+**[Akatsuki](https://github.com/tom91136/Akatsuki)** | Android states and arguments made easy with annotations
 [fragmentargs](https://github.com/sockeqwe/fragmentargs) | Annotation Processor for setting arguments in android fragments
-[ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter) | Simple Android Library, that provides easy way to start the Activities with arguments
+**[ActivityStarter](https://github.com/MarcinMoskala/ActivityStarter)** | Simple Android Library, that provides easy way to start the Activities with arguments
 [IntentBuilder](https://github.com/emilsjolander/IntentBuilder) | Type safe intent building for services and activities
 [OnActivityResult](https://github.com/vanniktech/OnActivityResult) | OnActivityResult annotation compiler for Android
 
@@ -185,7 +185,7 @@ Name | Repository
 [android-intents](https://github.com/marvinlabs/android-intents) | A small library which will save you from writing the same intent creation code again and again for the most simple tasks
 [phrase](https://github.com/square/phrase) | Phrase is an Android string resource templating library
 [android_dbinspector](https://github.com/infinum/android_dbinspector) | Android library for viewing and sharing in app databases
-[slinger](https://github.com/allegro/slinger) | Slinger - deep linking library for Android
+**[slinger](https://github.com/allegro/slinger)** | Slinger - deep linking library for Android
 [easydeviceinfo](https://github.com/nisrulz/easydeviceinfo) | Get device information in a super easy way
 [seismic](https://github.com/square/seismic) | Android device shake detection
 [AndroidProcesses](https://github.com/jaredrummler/AndroidProcesses) | Get running processes on Android
@@ -270,8 +270,8 @@ Name | Repository
 ## Tracking
 Name | Repository
 --- | ---
-[Google Analytics](https://developers.google.com/analytics/devguides/collection/android/v4/) | https://developers.google.com/analytics/devguides/collection/android/v4
-[Firebase Analytics](https://firebase.google.com/docs/analytics/) | https://firebase.google.com/docs/analytics
+**[Google Analytics](https://developers.google.com/analytics/devguides/collection/android/v4/)** | https://developers.google.com/analytics/devguides/collection/android/v4
+**[Firebase Analytics](https://firebase.google.com/docs/analytics/)** | https://firebase.google.com/docs/analytics
 [liquid-sdk-android](https://github.com/lqd-io/liquid-sdk-android) | https://onliquid.com
 [HockeySDK-Android](https://github.com/bitstadium/HockeySDK-Android) | https://hockeyapp.net
 [Packetzoom](https://packetzoom.com) | https://packetzoom.com
@@ -296,7 +296,7 @@ Name | Repository
 Name | Repository
 --- | ---
 [leakcanary](https://github.com/square/leakcanary) | A memory leak detection library for Android and Java
-[BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx) | Make performance bottleneck detection easily when app blocked
+**[BlockCanaryEx](https://github.com/seiginonakama/BlockCanaryEx)** | Make performance bottleneck detection easily when app blocked
 [AndroidPerformanceMonitor](https://github.com/markzhai/AndroidPerformanceMonitor) | A transparent ui-block detection library for Android, app only needs one-line-code to setup
 [TinyDancer](https://github.com/friendlyrobotnyc/TinyDancer) | An android library for displaying fps from the choreographer and percentage of time with two or more frames dropped
 [ANR-WatchDog](https://github.com/SalomonBrys/ANR-WatchDog) | A simple watchdog that detects Android ANR (Application Not Responding) error and throws a meaningful exception
@@ -317,8 +317,8 @@ Name | Repository
 ## Debug
 Name | Repository
 --- | ---
-[stf](https://github.com/openstf/stf) | Control and manage Android devices from your browser
-[stetho](https://github.com/facebook/stetho) | Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more
+**[stf](https://github.com/openstf/stf)** | Control and manage Android devices from your browser
+**[stetho](https://github.com/facebook/stetho)** | Stetho is a debug bridge for Android applications, enabling the powerful Chrome Developer Tools and much more
 [debug-bottle](https://github.com/kiruto/debug-bottle) | Debug Bottle is an Android runtime debug / develop tools written using kotlin language
 [Android-Debug-Database](https://github.com/amitshekhariitbhu/Android-Debug-Database) | A library for debugging android databases and shared preferences
 [under-the-hood](https://github.com/patrickfav/under-the-hood) | Under the Hood is a flexible and powerful Android debug view library. It uses a modular template system that can be easily extended to your needs, although coming with many useful elements built-in
@@ -326,8 +326,8 @@ Name | Repository
 [ViewInspector](https://github.com/xfumihiro/ViewInspector) | View Inspection Toolbar for Android Development
 [debugkit](https://github.com/hulab/debugkit) | DebugKit lib for Android allows you to use a fancy hovering debug tool to trigger some actions directly in the app. This tool is very useful to trigger some event at runtime, and to have a written feedback directly on your testing phone screen
 [AppMethodOrder](https://github.com/zjw-swun/AppMethodOrder) | Know all the function calls the order and time-consuming
-[Takt](https://github.com/wasabeef/Takt) | Takt is Android library for measuring the FPS using Choreographer
-[Traceur](https://github.com/T-Spoon/Traceur) | Easier RxJava2 debugging with better stacktraces 
+**[Takt](https://github.com/wasabeef/Takt)** | Takt is Android library for measuring the FPS using Choreographer
+**[Traceur](https://github.com/T-Spoon/Traceur)** | Easier RxJava2 debugging with better stacktraces 
 [Android-DebugPort](https://github.com/jasonwyatt/Android-DebugPort) | Android DebugPort is a drop-in utility which allows you to write and execute code within your app's context, at runtime, and from the comfort of your computer's terminal. Think of it as a window into your application through which you can both inspect and modify its state 
 [AndroidSnooper](https://github.com/jainsahab/AndroidSnooper) | Android library to record the network calls through the interceptor mechanism of the http clients 
 [debug-artist](https://github.com/baristaventures/debug-artist) | Make developers life easier with some tools, you can add it to your debug builds and have some debug libraries like Leakcanary and others without extra work
@@ -370,7 +370,7 @@ Name | Repository
 ## Validation
 Name | Repository
 --- | ---
-[android-saripaar](https://github.com/ragunathjawahar/android-saripaar) | UI form validation library for Android
+**[android-saripaar](https://github.com/ragunathjawahar/android-saripaar)** | UI form validation library for Android
 [Android-Validator](https://github.com/throrin19/Android-Validator) | Form Validator Library for Android
 [android-validation-komensky](https://github.com/inmite/android-validation-komensky) | A simple library for validating user input in forms using annotations
 [AwesomeValidation](https://github.com/thyrlian/AwesomeValidation) | Android validation library which helps developer boil down the tedious work to three easy steps
@@ -388,10 +388,10 @@ Name | Repository
 --- | ---
 [svgkit-android](http://scand.com/products/svgkit-android/index.html) | SVG Kit for Android is a flexible and quite fast library supporting SVG Tiny specs
 [sharp](https://github.com/Pixplicity/sharp) | SVG for Android
-[androidsvg](https://github.com/BigBadaboom/androidsvg) |
-[vectalign](https://github.com/bonnyfone/vectalign) |
-[SVG2Drawable](https://github.com/StanKocken/SVG2Drawable) |
-[svg2android](https://github.com/inloop/svg2android) |
+[androidsvg](https://github.com/BigBadaboom/androidsvg) | SVG rendering library for Android
+[vectalign](https://github.com/bonnyfone/vectalign) | Tool for create complex morphing animations using VectorDrawables (allows morphing between any pair of SVG images
+[SVG2Drawable](https://github.com/StanKocken/SVG2Drawable) | Use a jar executable to create a Drawable class to display a SVG on Android
+[svg2android](https://github.com/inloop/svg2android) | SVG to Android VectorDrawable XML resource file
 
 ## Media
 Name | Repository
@@ -423,13 +423,13 @@ Name | Repository
 ## Fonts
 Name | Repository
 --- | ---
-[Calligraphy](https://github.com/chrisjenx/Calligraphy) | Custom fonts in Android the easy way
+**[Calligraphy](https://github.com/chrisjenx/Calligraphy)** | Custom fonts in Android the easy way
 
 ## Theme / Skin
 Name | Repository
 --- | ---
-[Colorful](https://github.com/garretyoder/Colorful) | Android runtime theme library
-[aesthetic](https://github.com/afollestad/aesthetic) | A fast and easy to use plug-and-play dynamic theme engine. Powered by Rx, for Android apps
+**[Colorful](https://github.com/garretyoder/Colorful)** | Android runtime theme library
+**[aesthetic](https://github.com/afollestad/aesthetic)** | A fast and easy to use plug-and-play dynamic theme engine. Powered by Rx, for Android apps
 [MagicaSakura](https://github.com/Bilibili/MagicaSakura) | An Android multi theme library which supporting both daily colorful theme and night theme
 [ColorArt](https://github.com/MichaelEvans/ColorArt) | iTunes 11-style color matching code for Android
 [ChatKit](https://github.com/stfalcon-studio/ChatKit) | Flexible components for chat UI implementation with flexible possibilities for styling, customizing and data management
@@ -568,8 +568,6 @@ Name | Repository
 [codelabs](https://codelabs.developers.google.com/?cat=Android) | Google Developers Codelabs provide a guided, tutorial, hands-on coding experience
 [android-testing](https://github.com/googlesamples/android-testing) | A collection of samples demonstrating different frameworks and techniques for automated testing
 **[qualitymatters](https://github.com/artem-zinnatullin/qualitymatters)** | This is the app that follows all principles of [Android Development Culture Document](http://artemzin.com/blog/android-development-culture-the-document-qualitymatters/) 
-[]() | 
-[]() | 
 [Bandhook-Kotlin](https://github.com/antoniolg/Bandhook-Kotlin) | A showcase music app for Android entirely written using Kotlin language
 [android-kotlin-samples](https://github.com/irontec/android-kotlin-samples) | Some basic samples of Kotlin for Android
 [Kotlin-Example](https://github.com/myinnos/Kotlin-Example) | An example for who are all going to start learning Kotlin programming language to develop Android application
@@ -578,13 +576,13 @@ Name | Repository
 Name | Repository
 --- | ---
 **[TaggerString](https://github.com/polok/TaggerString)** | TaggerString is very light library which allows to build dynamic string resource in much more readable way
-**[Android-Material-Icon-Generator](https://github.com/Maddoc42/Android-Material-Icon-Generator)** |
+**[Android-Material-Icon-Generator](https://github.com/Maddoc42/Android-Material-Icon-Generator)** | Android icons with looooong material shadows!
 [FileDownloader](https://github.com/lingochamp/FileDownloader) | Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
 [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) | Collected the required development of Android Android SDK
 [gplay.ws](https://gplay.ws/) | Easily create a badge for your own android application in a single step
 [Rajawali](https://github.com/Rajawali/Rajawali) | Android OpenGL ES 2.0/3.0 Engine
 [scrollscreenshot](https://github.com/PGSSoft/scrollscreenshot) | Make Android screenshots of scrollable screen content
-[dex-method-counts](https://github.com/mihaip/dex-method-counts) | Command-line tool to count per-package methods in Android .dex files
+**[dex-method-counts](https://github.com/mihaip/dex-method-counts)** | Command-line tool to count per-package methods in Android .dex files
 [swiftp](https://github.com/ppareit/swiftp) | FTP server for your android device
 [gradle-packer-plugin](https://github.com/mcxiaoke/gradle-packer-plugin) | gradle-packer-plugin is a tool Android multi-channel package Gradle plugin can be easily automated building systems integration
 [Layout-to-Image](https://github.com/vipulasri/Layout-to-Image) | Android Layout (Relative Layout, Linear Layout etc) to Image
@@ -605,12 +603,11 @@ Name | Repository
 [ActivityRouter](https://github.com/mzule/ActivityRouter) | Router activities and methods with url for android
 [ReLinker](https://github.com/KeepSafe/ReLinker) | ReLinker fixes these issues by replacing the standard System.loadLibrary call with a more reliable implementation
 [davdroid](https://github.com/bitfireAT/davdroid) | DAVdroid – CalDAV/CardDAV synchronization for Android 4+ devices
-[java-error-handler](https://github.com/Workable/java-error-handler) | Error handling library for Android and Java
-[alfi](https://github.com/cesarferreira/alfi) | Search through thousands of android libraries that can help you scale your projects elegantly
+**[java-error-handler](https://github.com/Workable/java-error-handler)** | Error handling library for Android and Java
 [USB-Device-Info](https://github.com/alt236/USB-Device-Info---Android) | This application will provide information about almost all currently plugged-in USB devices
 [usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) | Android USB host serial driver library for CDC, FTDI, Arduino and other devices
-[Android-Material-Design-Colors](https://github.com/wada811/Android-Material-Design-Colors) | Android Material Design Colors
-[keyboard-dismisser](https://github.com/GabrielSamojlo/keyboard-dismisser) | Dismiss your keyboard by tapping anywhere outside it
+**[Android-Material-Design-Colors](https://github.com/wada811/Android-Material-Design-Colors)** | Android Material Design Colors
+**[keyboard-dismisser](https://github.com/GabrielSamojlo/keyboard-dismisser)** | Dismiss your keyboard by tapping anywhere outside it
 [PdfMyXml](https://github.com/HendrixString/Android-PdfMyXml) | convert android xml layouts into PDF document, works on all versions of Android
 [dexposed](https://github.com/alibaba/dexposed) | dexposed enable 'god' mode for single android application
 
