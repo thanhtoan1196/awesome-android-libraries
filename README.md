@@ -577,6 +577,7 @@ Name | Repository
 --- | ---
 **[TaggerString](https://github.com/polok/TaggerString)** | TaggerString is very light library which allows to build dynamic string resource in much more readable way
 **[Android-Material-Icon-Generator](https://github.com/Maddoc42/Android-Material-Icon-Generator)** | Android icons with looooong material shadows!
+**[Conductor](https://github.com/bluelinelabs/Conductor)** | A small, yet full-featured framework that allows building View-based Android applications
 [FileDownloader](https://github.com/lingochamp/FileDownloader) | Multitask、Breakpoint-resume、High-concurrency、Simple to use、Single/NotSingle-process
 [AndroidDevTools](https://github.com/inferjay/AndroidDevTools) | Collected the required development of Android Android SDK
 [gplay.ws](https://gplay.ws/) | Easily create a badge for your own android application in a single step
