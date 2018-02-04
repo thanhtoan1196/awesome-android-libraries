@@ -199,6 +199,8 @@ No. | Name | Description
 22 | [cling](https://github.com/4thline/cling) | UPnP/DLNA library for Java and Android
 23 | [CastCompanionLibrary-android](https://github.com/googlecast/CastCompanionLibrary-android) | CastCompanionLibrary-android is a library project to enable developers integrate Cast capabilities into their applications faster and easier
 24 | [RoboGif](https://github.com/izacus/RoboGif) | A small utility to record Android device screen to a GIF
+25 | [android-storage](https://github.com/snatik/android-storage) | Create, read, delete, append, encrypt files and more, on internal or external disk spaces with a really simple API
+26 | [libaums](https://github.com/magnusja/libaums) | Open source library to access USB Mass Storage devices on Android without rooting your device
 
 ## SharedPreference
 No. | Name | Description
