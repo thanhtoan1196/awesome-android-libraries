@@ -267,6 +267,8 @@ No. | Name | Description
 13 | [evernote-sdk-android](https://github.com/evernote/evernote-sdk-android) | Evernote SDK for Android
 14 | [open-weather-retriever-z](https://github.com/czack810150/open-weather-retriever-z) | A wrapper that gets weather information from OpenWeatherMap
 15 | [WeatherLib](https://github.com/survivingwithandroid/WeatherLib) | Android Weather Library: android weather lib to develop weather based app fast and easily
+16 | [Kommunicate-Live-Chat-Android-SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) | Kommunicate.io Android Chat SDK for Customer Support
+
 
 ## Tracking
 No. | Name | Description
