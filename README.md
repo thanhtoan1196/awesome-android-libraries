@@ -615,6 +615,7 @@ No. | Name | Description
 34 | [keyboard-dismisser](https://github.com/GabrielSamojlo/keyboard-dismisser) | Dismiss your keyboard by tapping anywhere outside it
 35 | [PdfMyXml](https://github.com/HendrixString/Android-PdfMyXml) | convert android xml layouts into PDF document, works on all versions of Android
 36 | [dexposed](https://github.com/alibaba/dexposed) | dexposed enable 'god' mode for single android application
+37 | [keyboard-visibility-event-android](https://github.com/viniciusmo/keyboard-visibility-event-android/) | A DSL to handle soft keyboard visibility change event.
 
 ## About Me
 - Github:  https://github.com/thanhtoan1196
