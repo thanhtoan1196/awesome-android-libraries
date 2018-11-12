@@ -141,6 +141,7 @@ No. | Name | Description
 19 | [RestorableSQLiteDatabase](https://github.com/yaa110/RestorableSQLiteDatabase) | A wrapper to replicate android's SQLiteDatabase with restoring capability.
 20 | [sqldelight](https://github.com/square/sqldelight) | Generates Java models from CREATE TABLE statements
 21 | [TriOrm](https://github.com/HendrixString/Android-TriOrm) | a 3d database ORM experiment
+22 | [EasyDB](https://github.com/p32929/AndroidEasySQL-Library) | An Easier & Lazier approach to SQL database for Android
 
 ## NoSQL
 No. | Name | Description
@@ -358,6 +359,7 @@ No. | Name | Description
 --- | --- | ---
 01 | [PermissionHelper](https://github.com/k0shk0sh/PermissionHelper) | Android Library to help you with your runtime Permissions
 02 | [Gota](https://github.com/alhazmy13/Gota) | Simplifying Android Permissions
+03 | [FayazPermissions](https://github.com/p32929/FayazPermissions) | An Easier & Lazier approach to getting runtime permissions in Android
 
 ## Security
 No. | Name | Description
