@@ -430,6 +430,7 @@ No. | Name | Description
 No. | Name | Description
 --- | --- | ---
 **01** | **[Calligraphy](https://github.com/chrisjenx/Calligraphy)** | Custom fonts in Android the easy way
+**02** | **[Fonty](https://github.com/MarcinOrlowski/Fonty)** | A simple Android library allowing you to easily change the typeface of your UI elements
 
 ## Theme / Skin
 No. | Name | Description
