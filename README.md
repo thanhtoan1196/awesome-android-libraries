@@ -269,6 +269,7 @@ No. | Name | Description
 14 | [open-weather-retriever-z](https://github.com/czack810150/open-weather-retriever-z) | A wrapper that gets weather information from OpenWeatherMap
 15 | [WeatherLib](https://github.com/survivingwithandroid/WeatherLib) | Android Weather Library: android weather lib to develop weather based app fast and easily
 16 | [Kommunicate-Live-Chat-Android-SDK](https://github.com/Kommunicate-io/Kommunicate-Android-Chat-SDK) | Kommunicate.io Android Chat SDK for Customer Support
+17 | [AdaptivePlus](https://github.com/adaptiveplus/AdaptivePlus-Android) | AdaptivePlus is the control center for marketing campaigns in mobile applications
 
 
 ## Tracking
